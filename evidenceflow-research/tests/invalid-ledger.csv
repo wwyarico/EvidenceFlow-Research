@@ -1,0 +1,3 @@
+claim_id,claim_text,evidence_excerpt_or_data,source_id,evidence_type,scope,confidence,verification_status,analyst_note
+C001,An unsupported factual claim,,,FACT,Global,SURE,VERIFIED,This row must fail validation
+C001,An unknown marked as verified,,,UNKNOWN,Unknown scope,LOW,VERIFIED,This row must also fail validation

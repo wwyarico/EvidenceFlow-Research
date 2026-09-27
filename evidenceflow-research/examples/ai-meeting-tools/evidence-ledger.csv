@@ -1,0 +1,5 @@
+claim_id,claim_text,evidence_excerpt_or_data,source_id,evidence_type,scope,confidence,verification_status,analyst_note
+C001,The shortlisted tool advertises bilingual transcription,Product documentation lists both target languages,S001,FACT,Current documented language support,MEDIUM,PARTIAL,Advertising still requires a hands-on accuracy test
+C002,Documented language support is sufficient for this team,,C001,INFERENCE,Pilot eligibility,LOW,UNVERIFIED,Depends on real recordings and team accents
+C003,Accuracy on mixed-language meetings is not yet known,,,UNKNOWN,Code-switching performance,LOW,UNVERIFIED,Collect five representative recordings during pilot
+

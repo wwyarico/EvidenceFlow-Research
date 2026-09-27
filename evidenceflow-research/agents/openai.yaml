@@ -1,0 +1,4 @@
+interface:
+  display_name: "EvidenceFlow Research"
+  short_description: "将市场、竞品与用户反馈转化为可追溯决策证据的研究工作流"
+  default_prompt: "Use $evidenceflow-research to turn my research question and sources into a traceable decision memo."
